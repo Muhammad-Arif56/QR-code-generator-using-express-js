@@ -28,6 +28,7 @@ app.post("/scan", (req, res) => {
   });
 });
 
+//port
 const port = process.env.port || 3000;
 app.listen(port, () => {
   console.log("Server is listening at port number " + port);
