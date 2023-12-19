@@ -1,0 +1,28 @@
+body {
+    background-color: cadetblue;
+  }
+  #text{
+    height: 170px;
+   margin-left: 350px;
+   margin-top: 10px;
+   width: 400px;
+   margin-bottom:auto;
+  }
+ .container{
+  justify-content: center;
+ }
+  .form{
+    height: 50px;
+    margin-bottom: 5px;
+    margin-right: auto;
+
+  }
+  .button{
+    margin-top: 5px;
+    padding: 5px;
+   margin-left: 350px;
+
+
+    
+  }
+ 
